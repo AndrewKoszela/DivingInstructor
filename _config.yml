@@ -4,7 +4,7 @@ bio:                'I am a diving instructor working in paradice and doing what
 description:        "This site is the goto resorce for everything about me"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo1.png'
 background:         'assets/img/diving-689825_1280.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
