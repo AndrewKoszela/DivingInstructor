@@ -8,10 +8,10 @@ logo:               'assets/img/logo1.png'
 background:         'assets/img/diving-689825_1280.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://andrewkoszela.github.io/divinginstructor
+url:                
 
 # Jekyll
-permalink:          /:title/
+permalink:          #/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
